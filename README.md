@@ -49,3 +49,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 <img width="1217" height="415" alt="image" src="https://github.com/user-attachments/assets/2df7d256-8276-496b-8786-a3f8e9f03ae4" />
 
 **RESULTS**
+Thus SR flipflop is implemented successfully using verilog and validated their functionality using their functional tables.
