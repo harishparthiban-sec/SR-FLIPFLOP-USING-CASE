@@ -46,7 +46,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 <img width="1018" height="690" alt="image" src="https://github.com/user-attachments/assets/2f0cb8bf-a316-4560-86d3-79454fba476b" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1217" height="415" alt="image" src="https://github.com/user-attachments/assets/2df7d256-8276-496b-8786-a3f8e9f03ae4" />
+<img width="1856" height="285" alt="image" src="https://github.com/user-attachments/assets/1da35791-1048-4271-a03c-760d3ca81719" />
+
 
 **RESULTS**
 Thus SR flipflop is implemented successfully using verilog and validated their functionality using their functional tables.
